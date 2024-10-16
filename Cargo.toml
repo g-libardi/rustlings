@@ -216,3 +216,6 @@ empty_loop = "forbid"
 infinite_loop = "deny"
 # You shouldn't leak memory while still learning Rust
 mem_forget = "deny"
+
+[dependencies]
+rustlings = "6.3.0"
